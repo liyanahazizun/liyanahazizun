@@ -6,5 +6,7 @@
 <h2> 🔗 Connect with me:</h2>
 
 [<img align="left" width="22px" img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" />][linkedin]
+[<img align="left" width="22px" img src="https://img.icons8.com/color/48/gmail-new.png" alt="email" />][email]
 
 [linkedin]: https://www.linkedin.com/in/nur-liyana-madihah-hazizun-7554b8201/
+[email]: mailto:myemailaddress@gmail.com
