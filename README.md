@@ -2,6 +2,8 @@
 
 <h2>👩🏻‍💻 Cybersecurity Projects:</a></h2>
 
+<h2>📄 Certifications:</a></h2>
+<li><a href="https://www.credly.com/badges/0b26182f-7385-42bf-9ec2-c075b82c065e/public_url">CompTIA Security+</a></li>
 
 <h2> 🔗 Connect with me:</h2>
 
