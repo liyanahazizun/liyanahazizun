@@ -1,5 +1,11 @@
 <h1>Hello, I'm <a href="https://github.com/liyanahazizun">Liyana</a>👋🏼</h1>
 
+<h2>🗂️ About Me:</a></h2>
+I've recently found a passion for cybersecurity, and I'm eager to turn it into a career. Armed with a Computer Science degree, I'm venturing into the realm of cybersecurity, learning as I go.
+<br />
+<br />
+Despite having a CS degree, cybersecurity is uncharted territory for me. I'm documenting the journey on my GitHub – a digital portfolio tracking my progress. Consider it a snapshot of my evolving understanding, available for future employers and recruiters to gauge where I stand.
+
 <h2>👩🏻‍💻 Cybersecurity Projects:</a></h2>
 
 <h2>📄 Certifications:</a></h2>
