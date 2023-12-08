@@ -13,9 +13,7 @@ Despite having a CS degree, cybersecurity is uncharted territory for me. I'm doc
 
 <h2> 🔗 Connect with me:</h2>
 
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/nur-liyana-madihah-hazizun-7554b8201/)
-<a href="https://www.linkedin.com/in/nur-liyana-madihah-hazizun-7554b8201/" target="_blank" rel="noopener noreferrer"><img align="left" width="22px" src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"></a>
-[<img align="left" width="22px" src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" target="_blank" rel="noopener noreferrer" />][linkedin]
+[<img align="left" width="22px" src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"/>][linkedin]
 [<img align="left" width="22px" img src="https://img.icons8.com/color/48/gmail-new.png" alt="email" />][email]
 
 [linkedin]: https://www.linkedin.com/in/nur-liyana-madihah-hazizun-7554b8201/
