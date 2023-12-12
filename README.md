@@ -5,7 +5,8 @@ I've recently found a passion for cybersecurity, and I'm eager to turn it into a
 
 Despite having a CS degree, cybersecurity is uncharted territory for me. I'm documenting the journey on my GitHub – a digital portfolio tracking my progress. Consider it a snapshot of my evolving understanding, available for future employers and recruiters to gauge where I stand.
 
-<!--## 👩🏻‍💻 Cybersecurity Projects: -->
+## 👩🏻‍💻 Cybersecurity Projects:
+- [Setting up my VM Homelab](https://github.com/liyanahazizun/VM-basics)
 
 ## 📄 Certifications:
 - [CompTIA Security+](https://www.credly.com/badges/0b26182f-7385-42bf-9ec2-c075b82c065e/public_url)
