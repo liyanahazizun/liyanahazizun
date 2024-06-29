@@ -13,8 +13,8 @@ Despite having a CS degree, cybersecurity is uncharted territory for me. I'm doc
 
 ## 🔗 Connect with me:
 
-[<img align="left" width="22px" src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"/>][linkedin]
+[<img align="left" width="22px" src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" />][linkedin]
 [<img align="left" width="22px" img src="https://img.icons8.com/color/48/gmail-new.png" alt="email" />][email]
 
-[linkedin]: www.linkedin.com/in/liyanahazizun
+[linkedin]: https://www.linkedin.com/in/liyanahazizun
 [email]: mailto:myemailaddress@gmail.com
