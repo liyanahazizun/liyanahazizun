@@ -8,6 +8,9 @@ Despite having a CS degree, cybersecurity is uncharted territory for me. I'm doc
 ## 👩🏻‍💻 Cybersecurity Projects:
 - [Setting up my VM Homelab](https://github.com/liyanahazizun/VM-basics)
 
+## 🏳️ CTFs:
+- [Verify](https://github.com/liyanahazizun/CTF-writeups/blob/main/picoCTF/picoCTF_2024/Forensics/Verify.md)
+
 ## 📄 Certifications:
 - [CompTIA Security+](https://www.credly.com/badges/0b26182f-7385-42bf-9ec2-c075b82c065e/public_url)
 
