@@ -10,6 +10,7 @@ Despite having a CS degree, cybersecurity is uncharted territory for me. I'm doc
 
 ## 🏳️ CTFs:
 - [Verify](https://github.com/liyanahazizun/CTF-writeups/blob/main/picoCTF/picoCTF_2024/Forensics/Verify.md)
+- [Bandit](https://github.com/liyanahazizun/CTF-writeups/blob/main/OverTheWire/Bandit.md)
 
 ## 📄 Certifications:
 - [CompTIA Security+](https://www.credly.com/badges/0b26182f-7385-42bf-9ec2-c075b82c065e/public_url)
